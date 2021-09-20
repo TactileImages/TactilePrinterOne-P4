@@ -1,0 +1,11 @@
+1. Motor and Bearing Assembly
+2. Limit Switches
+3. Extruder
+4. Heated Bed Assembly
+5. Needle Parking
+6. Printing Mechanism
+7. Power Connector and Switch Assembly
+8. Heated Bed Driver
+9. Power Supply
+10. Arduino Case
+11. Cable Ducts
