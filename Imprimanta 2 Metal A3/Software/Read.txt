@@ -1,0 +1,11 @@
+A. For control Printer:
+1.Instal From "Control" Folder the Repetier Host (for Wondows or Linux)
+2. From Congig menu setup connection for BAUDRATE 115200 For Com ports depends on your computer.
+B For preparing program for printer.
+1. From "Slik3r" Folder open the Slik3r.
+2. Load fom " Config" Folder the "Vintige " Configuration and enjoy
+C. For Firmware configuration or Firmawe load:
+1.Instal Arduino software
+2. Open from "Firmware" The "Marlyn.ino" 
+3. Setup "Tools" menu the Arduino Mega board and Com ports (Com port depends on your computer)
+4. Pres upload  
